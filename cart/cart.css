@@ -1,0 +1,20 @@
+.box {
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    background-color:red;
+}
+
+.selected {
+    background-color: blue;
+}
+
+.calculator {
+    border: 1px solid black;
+}
+
+.calculator td{
+    border-collapse: collapse;
+    border: 1px solid black;
+    width: 100px;
+}

@@ -1,0 +1,22 @@
+variable
+constante
+type primitif String, Number, Boolean
+type composé: Array, Object
+opérateur d'assignement =
+opérateur +, -, *, /
+opérateur boolean
+prompt, alert
+conversion de type avec parseInt, parseFloat
+console.log
+document.write
+Date
+structure conditionnelle if, switch
+boucle: while, do while, for
+function
+document:  représente le contenu de la fenêtre
+window: représente la fenêtre
+
+
+
+
+
