@@ -1,0 +1,11 @@
+#arena .hero-card {
+    float: left;
+    width: 150px;
+    height: 200px;
+    border: 1px solid red;
+    margin-right: 20px;
+}
+
+#arena .hero-card img{
+    width: 100%;
+}
